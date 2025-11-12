@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Training artifacts
+models/
+wandb/
+*.pt
+*.ckpt
+*.safetensors
+
+# Misc
+.env
+*.ipynb

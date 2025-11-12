@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ipynb
+wandb/
+models/
+data/
+.git
+.env

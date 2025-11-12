@@ -1,0 +1,10 @@
+numpy==1.26.4
+torch==2.3.1
+torchvision==0.18.1
+lightning==2.4.0
+transformers==4.43.3
+datasets==2.20.0
+evaluate==0.4.2
+wandb==0.17.8
+scikit-learn==1.5.2
+scipy==1.13.1
